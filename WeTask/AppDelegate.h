@@ -1,10 +1,7 @@
 //
-//  AppDelegate.h
-//  WeTask
-//
-//  Created by XN on 11/18/14.
-//  Copyright (c) 2014 Concordia InforTech. All rights reserved.
-//
+//  ChecklistsAppDelegate.h
+//  Checklists
+
 
 #import <UIKit/UIKit.h>
 
@@ -12,6 +9,4 @@
 
 @property (strong, nonatomic) UIWindow *window;
 
-
 @end
-
