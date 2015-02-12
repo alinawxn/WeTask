@@ -55,6 +55,7 @@
 		B6919FA61A22AFB0004039A9 /* APIUrl.m in Sources */ = {isa = PBXBuildFile; fileRef = B6919FA51A22AFB0004039A9 /* APIUrl.m */; };
 		B6B464431A22DA8A002315B3 /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B6B464421A22DA8A002315B3 /* LoginViewController.m */; };
 		B6BCDEF51A22F01900CFED62 /* userIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = B6BCDEF41A22F01900CFED62 /* userIcon.png */; };
+		B6FFB6681A30F7CF004E86A8 /* PersonnalInformationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B6FFB6671A30F7CF004E86A8 /* PersonnalInformationViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -137,6 +138,8 @@
 		B6B464411A22DA8A002315B3 /* LoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewController.h; sourceTree = "<group>"; };
 		B6B464421A22DA8A002315B3 /* LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginViewController.m; sourceTree = "<group>"; };
 		B6BCDEF41A22F01900CFED62 /* userIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = userIcon.png; sourceTree = "<group>"; };
+		B6FFB6661A30F7CF004E86A8 /* PersonnalInformationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PersonnalInformationViewController.h; sourceTree = "<group>"; };
+		B6FFB6671A30F7CF004E86A8 /* PersonnalInformationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PersonnalInformationViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -178,11 +181,11 @@
 		B6429FA21A1BA9B400F21DF0 /* WeTask */ = {
 			isa = PBXGroup;
 			children = (
-				B6B464401A22DA65002315B3 /* TabBarThreeViewControllers */,
 				B6919FA41A22AFB0004039A9 /* APIUrl.h */,
 				B6919FA51A22AFB0004039A9 /* APIUrl.m */,
 				B642A02E1A1BAA7600F21DF0 /* AppDelegate.h */,
 				B642A02F1A1BAA7600F21DF0 /* AppDelegate.m */,
+				B6B464401A22DA65002315B3 /* TabBarThreeViewControllers */,
 				B642A01E1A1BAA5200F21DF0 /* TabBarOneViewControllers */,
 				B642A0141A1BAA3300F21DF0 /* TabBarTwoViewControllers */,
 				B642A0011A1BAA1A00F21DF0 /* Models */,
@@ -308,6 +311,8 @@
 			children = (
 				B6B464411A22DA8A002315B3 /* LoginViewController.h */,
 				B6B464421A22DA8A002315B3 /* LoginViewController.m */,
+				B6FFB6661A30F7CF004E86A8 /* PersonnalInformationViewController.h */,
+				B6FFB6671A30F7CF004E86A8 /* PersonnalInformationViewController.m */,
 			);
 			name = TabBarThreeViewControllers;
 			sourceTree = "<group>";
@@ -444,6 +449,7 @@
 				B642A02C1A1BAA6700F21DF0 /* ItemDetailViewController.m in Sources */,
 				B642A01B1A1BAA4E00F21DF0 /* ContactsListTableViewController.m in Sources */,
 				B642A0301A1BAA7600F21DF0 /* AppDelegate.m in Sources */,
+				B6FFB6681A30F7CF004E86A8 /* PersonnalInformationViewController.m in Sources */,
 				B642A0131A1BAA2C00F21DF0 /* ContactList.m in Sources */,
 				B642A01D1A1BAA4E00F21DF0 /* ContactDetailViewController.m in Sources */,
 				B642A01C1A1BAA4E00F21DF0 /* ContactViewController.m in Sources */,

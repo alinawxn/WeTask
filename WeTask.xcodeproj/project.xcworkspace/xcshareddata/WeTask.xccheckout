@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DFCF7D9A-191A-40CC-A200-A0FA2DE8A275</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WeTask</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7943C2C6B3C7D9B14FA974902FB9E0022E08DED4</key>
+		<string>https://github.com/alinawxn/WeTask.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WeTask.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7943C2C6B3C7D9B14FA974902FB9E0022E08DED4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/alinawxn/WeTask.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7943C2C6B3C7D9B14FA974902FB9E0022E08DED4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7943C2C6B3C7D9B14FA974902FB9E0022E08DED4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WeTask</string>
+		</dict>
+	</array>
+</dict>
+</plist>

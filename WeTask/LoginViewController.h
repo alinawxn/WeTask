@@ -11,6 +11,7 @@
 @interface LoginViewController : UIViewController
 @property (weak, nonatomic) IBOutlet UITextField *phoneNumber;
 @property (weak, nonatomic) IBOutlet UITextField *password;
+@property (nonatomic) BOOL showInformation;
 - (IBAction)reg:(id)sender;
 - (IBAction)login:(id)sender;
 

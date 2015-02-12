@@ -11,8 +11,10 @@
 @interface APIUrl : NSObject
 
 - (NSURL *)fetchUserRegiserAPIUrl;
+- (NSURL *)fetchUserLoginAPIUrl;
 
 
 - (NSString *)paramsComponentsForUserRegisterAPIwithPhoneNumber:(NSString *)phoneNumber password:(NSString *)password;
+- (NSString *)paramsComponentsForUserLoginAPIwithPhoneNumber:(NSString *)phoneNumber password:(NSString *)password;
 
 @end
